@@ -1,1 +1,1 @@
-## NASA App
+## Fullstack App Boilerplate (Express, React.js)
